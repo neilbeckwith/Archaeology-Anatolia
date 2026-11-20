@@ -3,5 +3,5 @@ data/tiles/
 data/*.vrt
 data/hydro_rivers/
 data/hydro_lakes/
-*.pdf
+turkiye-archaeological-sites-map.pdf
 __pycache__/

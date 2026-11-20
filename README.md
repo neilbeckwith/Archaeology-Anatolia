@@ -27,6 +27,13 @@ and is not in this repo.
 Text and symbols are vector, so the map stays sharp at any zoom; the
 satellite basemap is raster at 150 dpi (see `MAP_DPI` below).
 
+## Pre-built PDF
+
+The built map is also in this repo as `turkiye-sites-map-v2.pdf` (16 pages,
+19.9 MB) — the full version, including the Istanbul–Gömeç driving-route
+map on pages 15–16. Note the script in this repo builds the 14-page
+main-map version only; the route map is a separate build.
+
 ## Requirements
 
 - Ubuntu 24.04, QGIS 3.34 with PyQGIS: `sudo apt install qgis python3-qgis`

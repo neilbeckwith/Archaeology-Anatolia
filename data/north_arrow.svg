@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="60" height="100" viewBox="0 0 60 100">
+  <!-- Simple north arrow: two-tone arrowhead + shaft. The letter N is a
+       separate layout label above the arrow, so the arrow is recognisable
+       even at small sizes. -->
+  <polygon points="30,4 30,52 12,62" fill="#1a1a1a"/>
+  <polygon points="30,4 48,62 30,52" fill="#ffffff" stroke="#1a1a1a" stroke-width="2"/>
+  <rect x="27" y="52" width="6" height="34" fill="#1a1a1a"/>
+  <rect x="27" y="86" width="6" height="10" fill="#1a1a1a"/>
+</svg>
